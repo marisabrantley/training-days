@@ -11,5 +11,5 @@ The program was using the wrong scope for its variables, which we fixed to make 
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Scope - global and block-level scope in JavaScript.
+JavaScript Syntax, Part I: Scope - global and block-level scope in JavaScript.
 
